@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Skynet
 - 📫 How to reach me: Ivsmcrew@gmail.com
-- &#128293; https://ivsmcrew.github.io/Hello_Iam/index.html
+- &#128293; About me: https://ivsmcrew.github.io/Hello_Iam/index.html
 
 <!---
 Ivsmcrew/Ivsmcrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
