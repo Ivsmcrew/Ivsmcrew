@@ -1,3 +1,6 @@
+# Link to my CV -> "###"
+
+## Topics
 - 👋 Hi, I’m Ivsmcrew
 - 👀 I’m interested in comprehension of digital world
 - 🌱 I’m currently learning Java
