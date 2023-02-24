@@ -1,15 +1,13 @@
-# Valeryy ([Link to CV](https://))   
+# @IVSM ([Link to CV](https://))   
  
-<details><summary> ＴＯＰＩＣＳ </summary>
-  <p>
-    
-  + Brief info 
-  + Technology stack
-  + About me
-  + Contacts
-  </p>
-</details>
-
+<details><summary> About me... </summary>
+  
+# Topics
++ Brief info 
++ Technology stack
++ About me
++ Contacts
+  
 ---
 
 ### Brief info
@@ -56,3 +54,4 @@ Currently focused on front-end web development. On my own, thanks to YouTube and
 </picture>
 
 > *Колизей — странное место. Одни там бьются насмерть, пока другие за этим наблюдают. В чём смысл этих тёмных обычаев?*
+</details>
