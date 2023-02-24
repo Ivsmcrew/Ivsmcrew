@@ -1,16 +1,13 @@
-# Valeryy ([Link to CV](https://)) 
-
-
-<details>
-  
-  <summary> Topics </summary>
-  
-  
-  + Brief info
+# Valeryy ([Link to CV](https://))   
+ 
+<details><summary> ＴＯＰＩＣＳ </summary>
+  <p>
+    
+  + Brief info 
   + Technology stack
   + About me
   + Contacts
-
+  </p>
 </details>
 
 ---
