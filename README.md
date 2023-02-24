@@ -1,10 +1,17 @@
-# Link to CV -> "###"  
+# Valeryy ([Link to CV](https://)) 
 
-## Topics
-+ Brief info 
-+ Technology stack
-+ About me
-+ Contacts
+
+<details>
+  
+  <summary> Topics </summary>
+  
+  
+  + Brief info
+  + Technology stack
+  + About me
+  + Contacts
+
+</details>
 
 ---
 
@@ -45,4 +52,10 @@ Currently focused on front-end web development. On my own, thanks to YouTube and
 
 ---
 
-*may the force be with you*
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://static-cdn.jtvnw.net/jtv_user_pictures/f316931b-ee90-48fe-8bf5-17845086f0e3-profile_banner-480.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://static-cdn.jtvnw.net/jtv_user_pictures/f316931b-ee90-48fe-8bf5-17845086f0e3-profile_banner-480.png">
+ <img alt="YOUR-ALT-TEXT" src="https://static-cdn.jtvnw.net/jtv_user_pictures/f316931b-ee90-48fe-8bf5-17845086f0e3-profile_banner-480.png">
+</picture>
+
+> *Колизей — странное место. Одни там бьются насмерть, пока другие за этим наблюдают. В чём смысл этих тёмных обычаев?*
