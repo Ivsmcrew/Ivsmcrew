@@ -3,9 +3,9 @@
 <details><summary> About me... </summary>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="/маяк узкий.png">
- <source media="(prefers-color-scheme: light)" srcset="https://interfaceingame.com/wp-content/uploads/hollow-knight/hollow-knight-banner.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://interfaceingame.com/wp-content/uploads/hollow-knight/hollow-knight-banner.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="lighthouse.png">
+ <source media="(prefers-color-scheme: light)" srcset="lighthouse.png">
+ <img alt="YOUR-ALT-TEXT" src="lighthouse.png">
 </picture>
 
 # Topics
