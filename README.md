@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <iframe src="https://giphy.com/embed/HL3yaaeTJMPdu" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <iframe src="https://giphy.com/embed/HL3yaaeTJMPdu" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sky-forest-trippy-HL3yaaeTJMPdu">via GIPHY</a></p>
 </div>
 
 <div id="wrap" align="center">
