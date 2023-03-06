@@ -3,7 +3,7 @@
 </div>
 
 <div id="wrap" align="center">
-<details><summary><div><h2> About me... </h2></div></summary>
+<details><summary><div><h2 style="color: red"> About me... </h2></div></summary>
 
 <div id="innerWrap" align="left">    
 
