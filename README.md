@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/embed/HL3yaaeTJMPdu" width="480" height="240"></img>
+    <img src="[https://giphy.com/embed/HL3yaaeTJMPdu](https://giphy.com/gifs/sky-forest-trippy-HL3yaaeTJMPdu)" width="480" height="240"></img>
 </div>
 
 <div id="wrap" align="center">
