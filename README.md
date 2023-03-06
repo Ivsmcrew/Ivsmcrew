@@ -1,4 +1,4 @@
-<div id="header" align="center" style="background-image:url(https://media4.giphy.com/media/mtaWx98w7mX7y/giphy.gif?cid=ecf05e47ovzqy15jaz3xgxz44u4ivxalyhjgkvmavc705m8n&rid=giphy.gif&ct=g); background-size:cover">
+<div id="header" align="center">
     <img src="https://media4.giphy.com/media/mtaWx98w7mX7y/giphy.gif?cid=ecf05e47ovzqy15jaz3xgxz44u4ivxalyhjgkvmavc705m8n&rid=giphy.gif&ct=g" width="480" height="240"></img>
 </div>
 
