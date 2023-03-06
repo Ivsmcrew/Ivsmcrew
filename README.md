@@ -47,7 +47,7 @@ Currently focused on front-end web development. On my own, thanks to YouTube and
 
 ### Contacts
 
-<a href="ivsmcrew@gmail.com"><img src="/icon2.png" width="70" height="70"></img></a> 
+<a href="mailto:ivsmcrew@gmail.com"><img src="/icon2.png" width="70" height="70"></img></a> 
 <a href="https://t.me/IVS_M"><img src="/icon1.png" width="70" height="70"></img></a> 
 <a href="https://vk.com/son_of_korzh"><img src="/icon3.png" width="70" height="70"></img></a> 
 
