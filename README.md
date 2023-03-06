@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:184%;position:relative;"><iframe src="https://media4.giphy.com/media/mtaWx98w7mX7y/giphy.gif?cid=ecf05e47ovzqy15jaz3xgxz44u4ivxalyhjgkvmavc705m8n&rid=giphy.gif&ct=g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 <div id="header" align="center">
     <img src="https://media4.giphy.com/media/mtaWx98w7mX7y/giphy.gif?cid=ecf05e47ovzqy15jaz3xgxz44u4ivxalyhjgkvmavc705m8n&rid=giphy.gif&ct=g" width="480" height="240"></img>
 </div>
