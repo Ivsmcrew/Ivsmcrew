@@ -1,4 +1,4 @@
-<div style="width:80%;height:0;padding-bottom:100%;position:relative;">
+<div style="width:80%;height:0;padding-bottom:100%;position:center;">
     <img src="https://media4.giphy.com/media/mtaWx98w7mX7y/giphy.gif?cid=ecf05e47ovzqy15jaz3xgxz44u4ivxalyhjgkvmavc705m8n&rid=giphy.gif&ct=g" width="50%"       height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 
