@@ -48,7 +48,7 @@ Currently focused on front-end web development. On my own, thanks to YouTube and
 ### Contacts
 
 * Email: ivsmcrew@gmail.com
-* Telegram<img src="https://icons8.ru/icon/l7PLniR__Vsn/телеграмма-app" width="70" height="70"></img>: https://t.me/IVS_M
+* Telegram<img src="http://icons8.ru/icon/l7PLniR__Vsn/телеграмма-app" width="70" height="70"></img>: https://t.me/IVS_M
 * VK: https://vk.com/son_of_korzh
 
 ---
