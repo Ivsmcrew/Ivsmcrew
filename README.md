@@ -1,7 +1,6 @@
 <div id="header" align="center">
-    <img src="/header.gif" width="780" height="340"></img>
+    <img src="/header.gif" width="780" height="300"></img>
 </div>
-<!--https://media4.giphy.com/media/mtaWx98w7mX7y/giphy.gif?cid=ecf05e47ovzqy15jaz3xgxz44u4ivxalyhjgkvmavc705m8n&rid=giphy.gif&ct=g -->
 
 <div id="wrap" align="center">
 <details><summary><div><h2><em> About me... </em></h2></div></summary>
