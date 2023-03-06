@@ -1,5 +1,3 @@
-## [Link to CV](https://)  
- 
 <details><summary> About me... </summary>
 
 <picture>
