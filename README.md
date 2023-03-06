@@ -4,7 +4,8 @@
 
 <div id="badges" align="center">
 <details><summary> About me... </summary>
-
+</div>
+    
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="lighthouse.png">
  <source media="(prefers-color-scheme: light)" srcset="lighthouse.png">
@@ -64,4 +65,4 @@ Currently focused on front-end web development. On my own, thanks to YouTube and
 
 > *Колизей — странное место. Одни там бьются насмерть, пока другие за этим наблюдают. В чём смысл этих тёмных обычаев?*
 </details>
-</div>
+
