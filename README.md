@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="/header4.gif" width="800"></img>
+    <img width="400px" src="/header4.gif"></img>
 </div>
 
 <div id="wrap" align="center">
