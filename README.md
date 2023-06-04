@@ -1,6 +1,12 @@
-<div id="header" align="center">
-    <img width="800px" src="/head3.gif"></img>
-</div>
+## [Link to CV](https://)  
+ 
+<details><summary> About me... </summary>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="lighthouse.png">
+ <source media="(prefers-color-scheme: light)" srcset="lighthouse.png">
+ <img alt="YOUR-ALT-TEXT" src="lighthouse.png">
+</picture>
 
 <div id="wrap" align="center">
 <details><summary><div><h2><em> About me... </em></h2></div></summary>
