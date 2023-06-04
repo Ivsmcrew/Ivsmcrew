@@ -14,9 +14,9 @@
 
 # Topics
 + [Brief info](https://github.com/Ivsmcrew#brief-info) 
-+ Technology stack
-+ About me
-+ Contacts
++ [Technology stack](https://github.com/Ivsmcrew#technology-stack)
++ [About me](https://github.com/Ivsmcrew#about-me)
++ [Contacts](https://github.com/Ivsmcrew#contacts)
   
 ---
 
