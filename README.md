@@ -4,13 +4,16 @@
  <img alt="YOUR-ALT-TEXT" src="lighthouse.png">
 </picture>
 
+<details>
+ <summary>ABOUT ME (CLICK HERE)</summary>
+
 <div id="wrap" align="center">
 
 <div id="innerWrap" align="left">    
 
 
 # Topics
-+ Brief info 
++ [Brief info](https://github.com/Ivsmcrew#brief-info) 
 + Technology stack
 + About me
 + Contacts
