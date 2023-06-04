@@ -1,5 +1,3 @@
- <details><summary> About me... </summary>
-
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="lighthouse.png">
  <source media="(prefers-color-scheme: light)" srcset="lighthouse.png">
@@ -7,7 +5,6 @@
 </picture>
 
 <div id="wrap" align="center">
-<details><summary><div><h2><em> About me... </em></h2></div></summary>
 
 <div id="innerWrap" align="left">    
 
