@@ -1,6 +1,4 @@
-## [Link to CV](https://)  
- 
-<details><summary> About me... </summary>
+ <details><summary> About me... </summary>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="lighthouse.png">
