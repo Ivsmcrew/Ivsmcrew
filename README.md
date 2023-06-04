@@ -30,11 +30,12 @@
 
 ### Technology stack
 * HTML5, CSS3, SASS
-* JavaScript ES6
+* JavaScript ES6, NodeJS
 * GIT, GitHub
 * VS Code, IntelliJ IDEA
-* BEM 
+* Eslint, Webpack
 * Adobe Photoshop, Figma
+* BEM 
 
 ---
 
@@ -42,7 +43,7 @@
 
 Hello everyone, my name is Valery and I am a qualified design engineer in the field of mechanical engineering. Graduated from BSTU "VOENMEH" in the city of St. Petersburg in the field of rocket science. However, since 2022, I have been working hard in the direction of software development. I started to show interest in programming from the 3rd year, modulating simple processes in the Matlab environment. After graduating from the university, I had and still have many programmer friends, so the opportunity to plunge into the IT world often turned up. 
 
-Currently focused on front-end web development. On my own, thanks to YouTube and web tutorials, I studied technologies such as git, ide, css, sass, JS core. In February 2023, I learned about RS school from a friend. I plan to finish the 3rd stage of training in The Rolling Scopes and get a dream job - a job as a web developer, then level up to a full stack. In some future I plan to get a higher education in the field of artificial intelligence. However, this is already quite distant plans ...
+Currently focused on front-end web development. On my own, thanks to YouTube and web tutorials, I studied technologies such as git, ide, css, sass, JS (core concepts and web components), and some auxiliary instruments like webpack and eslint. In February 2023, I learned about RS school from a friend. That one helped me structure knowledge and implement several projects (in my repositories). I hope to get a job as a web  frontend developer, then level up to a full stack. In some future I plan to get a higher education in the field of artificial intelligence. However, this is already quite distant plans ...
 
 ---
 
