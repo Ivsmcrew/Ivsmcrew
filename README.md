@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="lighthouse.png">
  <source media="(prefers-color-scheme: light)" srcset="lighthouse.png">
- <img alt="YOUR-ALT-TEXT" src="lighthouse.png">
+ <img alt="lighthouse image" src="/lighthouse.png">
 </picture>
 
 <details>
