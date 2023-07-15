@@ -50,6 +50,8 @@ Currently focused on front-end web development. On my own, thanks to YouTube and
 
 ---
 
+https://www.codewars.com/users/ivsmcrew/badges/large
+
 ### Contacts
 
 <a href="mailto:ivsmcrew@gmail.com" title="ivsmcrew@gmail.com"><img src="/icon2.png" width="70" height="70"></img></a> 
