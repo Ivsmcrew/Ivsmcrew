@@ -50,7 +50,11 @@ Currently focused on front-end web development. On my own, thanks to YouTube and
 
 ---
 
-https://www.codewars.com/users/ivsmcrew/badges/large
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.codewars.com/users/ivsmcrew/badges/large">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.codewars.com/users/ivsmcrew/badges/large">
+ <img alt="YOUR-ALT-TEXT" src="https://www.codewars.com/users/ivsmcrew/badges/large">
+</picture>
 
 ### Contacts
 
