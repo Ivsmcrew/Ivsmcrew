@@ -11,20 +11,10 @@
 
 <div id="innerWrap" align="left">    
 
-
-# Topics
-+ [Brief info](https://github.com/Ivsmcrew#brief-info) 
-+ [Technology stack](https://github.com/Ivsmcrew#technology-stack)
-+ [About me](https://github.com/Ivsmcrew#about-me)
-+ [Contacts](https://github.com/Ivsmcrew#contacts)
-  
----
-
 ### Brief info
 * name: **Valeryy**
 * direction: **Frontend-developer**
 * experience: **1 year**
-* english: **Pre-intermediate(A2+)**
 
 ---
 
