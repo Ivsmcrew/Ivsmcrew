@@ -29,7 +29,7 @@
 
 Hi there, my name is Valery and I am a qualified design engineer in the field of mechanical engineering. Graduated from BSTU "VOENMEH" in the city of St. Petersburg in the field of rocket science. However, since 2022, I have been working hard in the direction of software development. I started to show interest in programming from the 3rd year, modulating simple processes in the Matlab environment. After graduating from the university, I had and still have many programmer friends, so the opportunity to plunge into the IT world often turned up. 
 
-Currently focused on front-end web development. On my own, thanks to YouTube and web tutorials, I studied technologies such as git, ide, HTML, css, sass, JavaScript ES6+, and some auxiliary instruments like webpack and eslint. I hope to get a job as a frontend developer, then level up to a full stack. In some future I plan to get a higher education in the field of artificial intelligence. However, this is already quite distant plans.
+Currently focused on front-end web development. In some future I plan to get a higher education in the field of artificial intelligence. However, this is already quite distant plans.
 
 Feel free to write, I will be happy to discuss a joint project or work
 
