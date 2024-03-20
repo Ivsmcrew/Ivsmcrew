@@ -9,17 +9,17 @@
 
 ### Brief info
 * name: **Valeryy**
-* direction: **Frontend-developer**
-* experience: **1 year**
+* direction: **React frontend**
+* experience: **~1 year**
 
 ---
 
 ### Technology stack
-* HTML5, CSS3, SASS
-* JavaScript ES6+, NodeJS
+* HTML5, CSS3, SASS, Bootstrap
+* JavaScript ES6+, ReactJS
 * GIT, GitHub
+* Eslint, Prettier
 * VS Code, IntelliJ IDEA
-* Eslint, Webpack
 * Adobe Photoshop, Figma
 * BEM 
 
@@ -27,9 +27,9 @@
 
 ### About me
 
-Hi there, my name is Valery and I am a qualified design engineer in the field of mechanical engineering. Graduated from BSTU "VOENMEH" in the city of St. Petersburg in the field of rocket science. However, since 2022, I have been working hard in the direction of software development. I started to show interest in programming from the 3rd year, modulating simple processes in the Matlab environment. After graduating from the university, I had and still have many programmer friends, so the opportunity to plunge into the IT world often turned up. 
+Hi there, my name is Valery and I am a qualified specialist in the field of mechanical engineering. Graduated from BSTU "VOENMEH" in the city of St. Petersburg in the direction of rocket science. Since 2022, I have been working hard in the direction of software development. I started to show interest in programming, modulating simple processes in the Matlab environment.
 
-Currently focused on front-end web development. In some future I plan to get a higher education in the field of artificial intelligence. However, this is already quite distant plans.
+Currently focused on front-end web development in React environment. In some future I plan to get a higher education in the field of artificial intelligence. However, this is already quite distant plans.
 
 Feel free to write, I will be happy to discuss a joint project or work
 
