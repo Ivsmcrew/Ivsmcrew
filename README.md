@@ -7,14 +7,14 @@
 
 <div id="innerWrap" align="left">    
 
-### Brief info
+### 🍂 Brief info
 * name: **Valeryy**
 * direction: **React frontend**
 * experience: **~1 year**
 
 ---
 
-### Technology stack
+### 🍂 Technology stack
 * HTML5, CSS3, SASS, Bootstrap
 * JavaScript ES6+, ReactJS
 * GIT, GitHub
@@ -25,7 +25,7 @@
 
 ---
 
-### About me
+### 🍂 About me
 
 Hi there, my name is Valery and I am a qualified specialist in the field of mechanical engineering. Graduated from BSTU "VOENMEH" in the city of St. Petersburg in the direction of rocket science. Since 2022, I have been working hard in the direction of software development. I started to show interest in programming, modulating simple processes in the Matlab environment.
 
@@ -41,7 +41,7 @@ Feel free to write, I will be happy to discuss a joint project or work
  <img alt="YOUR-ALT-TEXT" src="https://www.codewars.com/users/ivsmcrew/badges/large">
 </picture>
 
-### Contacts
+### 🍂 Contacts
 
 <a href="mailto:ivsmcrew@gmail.com" title="ivsmcrew@gmail.com"><img src="/icon2.png" width="70" height="70"></img></a> 
 <a href="https://t.me/IVS_M" title="https://t.me/IVS_M"><img src="/icon1.png" width="70" height="70"></img></a> 
