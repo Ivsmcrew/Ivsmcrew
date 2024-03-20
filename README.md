@@ -35,12 +35,6 @@ Feel free to write, I will be happy to discuss a joint project or work
 
 ---
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.codewars.com/users/ivsmcrew/badges/large">
- <source media="(prefers-color-scheme: light)" srcset="https://www.codewars.com/users/ivsmcrew/badges/large">
- <img alt="YOUR-ALT-TEXT" src="https://www.codewars.com/users/ivsmcrew/badges/large">
-</picture>
-
 ### 🍂 Contacts
 
 <a href="mailto:ivsmcrew@gmail.com" title="ivsmcrew@gmail.com"><img src="/icon2.png" width="70" height="70"></img></a> 
