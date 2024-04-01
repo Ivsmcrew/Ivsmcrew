@@ -16,7 +16,7 @@
 
 ### 🍂 Technology stack
 * HTML5, CSS3, SASS, Bootstrap
-* JavaScript ES6+, ReactJS, TypeScript
+* JavaScript ES6+, ReactJS, Redux toolkit, TypeScript
 * GIT, GitHub
 * Eslint, Prettier
 * VS Code, IntelliJ IDEA
