@@ -21,7 +21,7 @@
 * Eslint, Prettier
 * VS Code, IntelliJ IDEA
 * Adobe Photoshop, Figma
-* BEM 
+* BEM, FSD
 
 ---
 
