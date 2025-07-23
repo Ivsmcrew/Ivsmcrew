@@ -1,7 +1,7 @@
 ![lighthouse-image](/lighthouse.png)
 
 <details>
- <summary>ABOUT</summary>
+ <summary>ABOUT ME</summary>
 
 <div id="wrap" align="center">
 
@@ -29,7 +29,7 @@
 
 Hi there, my name is Valery and I am a qualified specialist in the field of mechanical engineering. Graduated from BSTU "VOENMEH" in the city of St. Petersburg in the direction of rocket science. Since 2022, I have been working hard in the direction of software development. I started to show interest in programming, modulating simple processes in the Matlab environment, and now I am fully into web development.
 
-Primary focused on front-end web development in React environment, but I also often touch on backend development and architecture of modern web applications.
+Primary focused on front-end part in ReactJS environment, but I also often touch on backend development and architecture of modern web applications.
 
 Feel free to write, I will be happy to discuss a joint project or work
 
